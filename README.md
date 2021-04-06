@@ -9,11 +9,12 @@ Programmierung AG
 ## Scratch
 https://scratch.mit.edu/
 
+Corona Adventskalender (nicht fertig) https://scratch.mit.edu/projects/459043311/
+
 ## Arduino
 
 ## RaspberryPi
-Programmieren mit Python
-https://www.fablab-muenchen.de/
+Programmieren mit Python https://www.fablab-muenchen.de/
 
 ## Microbit
 
